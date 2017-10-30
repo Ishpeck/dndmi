@@ -7,4 +7,5 @@ Goal of this project is to have a simple, concise set of page references in mark
 # TODO
 
  - Add stuff from Tales from the Yawning Portal.
+ - Add stuff from Curse of Strahd
  - Add monsters clustered by their type (aberration, dragon, fiend, etc..)
