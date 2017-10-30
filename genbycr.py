@@ -40,7 +40,7 @@ def generate_markdown(monsters):
         if currentCR != monster["cr"]:
             print "\n# Challenge Rating {cr} {0}\n".format(crxp[monster["cr"]], **monster)
         currentCR = monster["cr"]
-        print " - {title} ({page})".format(**monster)
+        print " - {title} ({book} {page})".format(**monster)
 
 def read_source(filePath):
     with open(filePath, "r") as sourceFile:

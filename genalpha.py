@@ -8,7 +8,7 @@ def _alpha_sorted(m1, m2):
 def generate_markdown(monsters):
     print "\n# All Monsters Alphabetically\n"
     for monster in sorted(monsters, cmp=_alpha_sorted):
-        print " - {title} ({page})".format(**monster)
+        print " - {title} ({book} {page})".format(**monster)
 
 def read_source(filePath):
     with open(filePath, "r") as sourceFile:
