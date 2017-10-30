@@ -87,6 +87,7 @@
  - Axe Beak (MM 317)
  - Blink Dog (MM 318)
  - Boar (MM 319)
+ - Broom of Animated Attack (CoS 226)
  - Bullywug (MM 35)
  - Constrictor Snake (MM 320)
  - Cow (VG 207)
@@ -116,10 +117,12 @@
  - Kobold Inventor (VG 166)
  - Kuo-Toa (MM 199)
  - Male Steeder (OotA 231)
+ - Mongrelfolk (CoS 234)
  - Mud Mephit (MM 216)
  - Needle Blight (MM 32)
  - Ox (VG 207)
  - Panther (MM 333)
+ - Pidlwick II (CoS 236)
  - Pixie (MM 253)
  - Pseudodragon (MM 254)
  - Pteranodon (MM 80)
@@ -144,6 +147,7 @@
 # Challenge Rating 1/2 (100XP)
 
  - Ape (MM 317)
+ - Barovian Witch (CoS 229)
  - Black Bear (MM 318)
  - Chitine (VG 131)
  - Cockatrice (MM 42)
@@ -193,10 +197,6 @@
  - Warhorse (MM 340)
  - Worg (MM 341)
 
-# Challenge Rating 1/4 (50XP)
-
- - Broom of Animated Attack (CoS 226)
-
 # Challenge Rating 1 (200XP)
 
  - Animated Armor (MM 19)
@@ -228,6 +228,7 @@
  - Gnoll Flesh Gnawer (VG 154)
  - Goblin Boss (MM 166)
  - Grung Wildling (VG 157)
+ - Guardian Portrait (CoS 227)
  - Half-Ogre (MM 238)
  - Harpy (MM 181)
  - Hipogriff (MM 184)
@@ -246,6 +247,7 @@
  - Sea Spawn (VG 189)
  - Specter (MM 279)
  - Spy (MM 349)
+ - Strahd Zombie (CoS 241)
  - Swarm Of Quippers (MM 338)
  - THorny (VG 197)
  - Thri-Kreen (MM 288)
@@ -254,7 +256,6 @@
  - Xvart Warlock of Raxivort (VG 200)
  - Yuan-Ti Pureblood (MM 310)
  - Yusdrayl (TftYP 248)
- - Guardian Portrait (CoS 227)
 
 # Challenge Rating 2 (450XP)
 
@@ -349,6 +350,7 @@
  - Vampiric Ixitxachitl (OotA 226)
  - Vegepygmy Chied (VG 197)
  - Wererat (MM 209)
+ - Wereraven (CoS 242)
  - White Dragon Wyrmling (MM 102)
  - Will-O'-Wisp (MM 310)
  - Yuan-ti Broodguard (VG 203)
@@ -400,6 +402,7 @@
  - One-Eyed Shiver (PotA 207)
  - Orc Red Fang of SHargaas (VG 185)
  - Owlbear (MM 249)
+ - Phantom Warrior (CoS 235)
  - Phase Spider (MM 334)
  - Quaggoth Thonot (MM 256)
  - Redcap (VG 188)
@@ -496,6 +499,7 @@
  - Half-Red Dragon Veteran (MM 180)
  - Hellenrae (PotA 198)
  - Hill Giant (MM 155)
+ - Izek Strazni (CoS 232)
  - Kraken Priest (VG 215)
  - Master Thief (VG 216)
  - Mezzoloth (MM 313)
@@ -505,6 +509,7 @@
  - Razerblast (PotA 201)
  - Red Slaad (MM 276)
  - Revenant (MM 259)
+ - Rictavio (CoS 238)
  - Roper (MM 261)
  - Sahuagin Baron (MM 264)
  - Salamander (MM 266)
@@ -552,6 +557,7 @@
  - Medusa (MM 214)
  - Miraj Vizann (PotA 198)
  - Mouth of Grolantor (VG 149)
+ - Strahd's Animated Armor (CoS 227)
  - Vrock (MM 64)
  - Warlock of the Great Old One (VG 220)
  - Wyvern (MM 303)
@@ -579,6 +585,7 @@
  - Oni (MM 239)
  - Shield Guardian (MM 271)
  - Stone Giant (MM 156)
+ - Tree Blight (CoS 230)
  - Warlock of the Fiend (VG 219)
  - Water Elemental Myrmidon (PotA 213)
  - Young Black Dragon (MM 88)
@@ -588,13 +595,13 @@
 # Challenge Rating 8 (3900XP)
 
  - Assassin (MM 343)
- - Blackguard (VG 211)
- - Diviner (VG 213)
- - Shoosuva (VG 137)
  - Bastian Thermandar (PotA 201)
+ - Blackguard (VG 211)
  - Chain Devil (MM 72)
  - Cloaker (MM 41)
+ - Diviner (VG 213)
  - Drow Priestess Of Lolth (MM 129)
+ - Ezmerelda D'Avenir (CoS 231)
  - Fomorian (MM 136)
  - Frost Giant (MM 154)
  - Githyanki Knight (MM 160)
@@ -603,6 +610,7 @@
  - Hydra (MM 190)
  - Marlos Urnrayle [not in lair] (PotA 199)
  - Mind Flayer Arcanist (MM 222)
+ - Shoosuva (VG 137)
  - Spirit Naga (MM 234)
  - Tyrannosaurus Rex (MM 80)
  - Young Bronze Dragon (MM 108)
@@ -644,8 +652,10 @@
  - Deva (MM 16)
  - Froghemoth (VG 145)
  - Guardian Naga (MM 234)
+ - Madam Eva (CoS 233)
  - Malformed Kraken (TftYP 239)
  - Ooze Master (TftYP 241)
+ - Rahadin (CoS 237)
  - Stone Giant Dreamwalker (VG 150)
  - Stone Golem (MM 170)
  - White Maw (TftYP 248)
@@ -655,6 +665,8 @@
 
 # Challenge Rating 11 (7200XP)
 
+ - Baba Lysaga (CoS 228)
+ - Baba Lysaga's Creeping Hut (CoS 226)
  - Behir (MM 25)
  - Cloud Giant Smiling Oen (VG 146)
  - Dao (MM 143)
@@ -666,7 +678,6 @@
  - Markoth (VG 178)
  - Remorhaz (MM 258)
  - Roc (MM 260)
- - Baba Lysaga's Creeping Hut (CoS 226)
 
 # Challenge Rating 12 (8400XP)
 
@@ -710,6 +721,10 @@
  - Purple Worm (MM 255)
  - Vampire [spellcaster] (MM 298)
  - Vampire [warrior] (MM 298)
+
+# Challenge Rating 15 (13000XP)
+
+ - Strahd von Zarovich (CoS 240)
 
 # Challenge Rating 16 (15000XP)
 
