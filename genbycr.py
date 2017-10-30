@@ -34,17 +34,6 @@ crxp = {
     "30": "(155000XP)",
 }
 
-# >>> d = {'Bill': 4, 'Alex' : 4, 'Bob' : 3, "Charles": 7}    
-# >>> sorted(d, key=lambda k: (d[k], k))
-# ['Bob', 'Alex', 'Bill', 'Charles']
-
-def _cr_sorted(m1, m2):
-    cr1 = eval(m1["cr"])
-    cr2 = eval(m2["cr"])
-    if m1["cr"]==m2["cr"]:
-        return cmp(m1["title"], m2["title"])
-    return cmp(cr1, cr2)
-
 def generate_markdown(monsters):
     currentCR=-1
     for monster in sorted(monsters, key=lambda d: eval(d["cr"])):
