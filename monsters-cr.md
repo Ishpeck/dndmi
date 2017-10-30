@@ -189,6 +189,9 @@
  - Warhorse (MM 340)
  - Warhorse Skeleton (MM 273)
  - Worg (MM 341)
+ - Sharwyn Hucrele (TftYP 242)
+ - Sir Bradford (TftYP 243)
+ - Thorn Slinger (TftYP 246)
 
 # Challenge Rating 1 (200XP)
 
@@ -244,6 +247,9 @@
  - Vargouille (VG 195)
  - Xvart Warlock of Raxivort (VG 200)
  - Yuan-Ti Pureblood (MM 310)
+ - Choker (TftYP 232)
+ - Dead Warrior (TftYP 233)
+ - Yusdrayl (TftYP 248)
 
 # Challenge Rating 2 (450XP)
 
@@ -335,6 +341,12 @@
  - White Dragon Wyrmling (MM 102)
  - Will-O'-Wisp (MM 310)
  - Yuan-ti Broodguard (VG 203)
+ - Animated Table (TftYP 230)
+ - Duergar Spy (TftYP 234)
+ - Giant Crayfish (TftYP 235)
+ - Nereid (TftYP 240)
+ - Thayan Apprentice (TftYP 245)
+ - Thayan Warrior (TftYP 246)
 
 # Challenge Rating 3 (700XP)
 
@@ -394,6 +406,15 @@
  - Winter Wolf (MM 340)
  - Yeti (MM 305)
  - Yuan-Ti Malison (MM 309)
+ - Deathlock Wight (TftYP 233)
+ - Giant Ice Toad (TftYP 235)
+ - Giant Lightning Eel (TftYP 236)
+ - Illusionist (TftYP 237)
+ - Kalka-Kylla (TftYP 238)
+ - Leucrotta (TftYP 239)
+ - Martial Arts Adept (TftYP 240)
+ - Siren (TftYP 243)
+ - Vampiric Mist (TftYP 247)
 
 # Challenge Rating 4 (1100XP)
 
@@ -437,6 +458,10 @@
  - Yeth Hound (VG 201)
  - Yuan-ti Mind Whisperer (VG 204)
  - Yuan-ti Nightmare SPeaker (VG 205)
+ - Barghest (TftYP 230)
+ - Giant Subterranean Lizard (TftYP 236)
+ - Kelpie (TftYP 238)
+ - Tecuziztecatl (TftYP 245)
 
 # Challenge Rating 5 (1800XP)
 
@@ -494,6 +519,10 @@
  - Xorn (MM 304)
  - Young Remorhaz (MM 258)
  - Yuan-ti Pit Master (VG 206)
+ - Enchanter (TftYP 234)
+ - Greater Zombie (TftYP 237)
+ - Sea Lion (TftYP 242)
+ - Transmuter (TftYP 247)
 
 # Challenge Rating 6 (2300XP)
 
@@ -521,6 +550,8 @@
  - Wyvern (MM 303)
  - Young Brass Dragon (MM 105)
  - Young White Dragon (MM 101)
+ - Centaur Mummy (TftYP 231)
+ - Conjurer (TftYP 232)
 
 # Challenge Rating 7 (2900XP)
 
@@ -547,6 +578,7 @@
  - Young Black Dragon (MM 88)
  - Young Copper Dragon (MM 111)
  - Yuan-Ti Abomination (MM 308)
+ - Giant Skeleton (TftYP 236)
 
 # Challenge Rating 8 (3900XP)
 
@@ -594,6 +626,9 @@
  - War Priest (VG 218)
  - Young Blue Dragon (MM 91)
  - Young Silver Dragon (MM 118)
+ - Champion (TftYP 231)
+ - Evoker (TftYP 235)
+ - Necromancer (TftYP 241)
 
 # Challenge Rating 10 (5900XP)
 
@@ -609,6 +644,9 @@
  - Yochlol (MM 65)
  - Young Gold Dragon (MM 115)
  - Young Red Dragon (MM 98)
+ - Malformed Kraken (TftYP 239)
+ - Ooze Master (TftYP 241)
+ - White Maw (TftYP 248)
 
 # Challenge Rating 11 (7200XP)
 
@@ -651,6 +689,7 @@
  - Ultroloth (MM 314)
  - Vampire (MM 297)
  - Young Red Shadow Dragon (MM 85)
+ - Tarul Var (TftYP 244)
 
 # Challenge Rating 14 (11500XP)
 
