@@ -3,6 +3,7 @@
 Page references include acronyms specifying which book they are found
 under.  Book acronyms are as follows:
 
+ - CoS = Curse of Strahd
  - MM = Monster Manual
  - OotA = Out of the Abyss
  - PotA = Princes of the Apocalypse
@@ -13,6 +14,8 @@ Books I don't have and so aren't present:
 
  - HotDQ = Hoard of the Dragon Queen
  - RoT = Rise of Tiamat
+ - SKT = Storm King's Thunder
+ - ToA = Tomb of Annihilation
 
 # Challenge Rating 0 (0-10XP)
 
