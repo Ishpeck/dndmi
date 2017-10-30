@@ -249,7 +249,7 @@ Books I don't have and so aren't present:
  - Tiger (MM 339)
  - Vargouille (VG 195)
  - Xvart Warlock of Raxivort (VG 200)
- - Yuan-Ti Pureblood
+ - Yuan-Ti Pureblood (MM 310)
 
 # Challenge Rating 2 (450XP)
 
