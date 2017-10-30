@@ -6,6 +6,7 @@ under.  Book acronyms are as follows:
  - MM = Monster Manual
  - OotA = Out of the Abyss
  - PotA = Princes of the Apocalypse
+ - TftYP = Tales from the Yawning Portal
  - VG = Volo's Guide to Monsters
 
 Books I don't have and so aren't present:
