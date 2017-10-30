@@ -34,22 +34,23 @@ crxp = {
     "30": "(155000XP)",
 }
 
-def _sortable_cr(monster):
-    monster["cr_numeric"]=eval(monster["cr"])
-    monster["xp"]=crxp[monster["cr"]]
-    return monster
+# >>> d = {'Bill': 4, 'Alex' : 4, 'Bob' : 3, "Charles": 7}    
+# >>> sorted(d, key=lambda k: (d[k], k))
+# ['Bob', 'Alex', 'Bill', 'Charles']
 
 def _cr_sorted(m1, m2):
-    if m1["cr_numeric"]==m2["cr_numeric"]:
-        return m1["title"]<m2["title"]
-    return m1["cr_numeric"]<m2["cr_numeric"]
+    cr1 = eval(m1["cr"])
+    cr2 = eval(m2["cr"])
+    if m1["cr"]==m2["cr"]:
+        return cmp(m1["title"], m2["title"])
+    return cmp(cr1, cr2)
 
 def generate_markdown(monsters):
     currentCR=-1
-    for monster in sorted(map(_sortable_cr, monsters), cmp=_cr_sorted):
-        if currentCR != monster["cr_numeric"]:
-            print "\n# Challenge Rating {cr_numeric} {xp}\n".format(**monster)
-        currentCR = monster["cr_numeric"]
+    for monster in sorted(monsters, key=lambda d: eval(d["cr"])):
+        if currentCR != monster["cr"]:
+            print "\n# Challenge Rating {cr} {0}\n".format(crxp[monster["cr"]], **monster)
+        currentCR = monster["cr"]
         print " - {title} ({page})".format(**monster)
 
 def read_source(filePath):

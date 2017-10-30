@@ -45,6 +45,9 @@
  - Spider (MM 337)
  - Vulture (MM 339)
  - Weasel (MM 340)
+
+# Challenge Rating 1/8 (25XP)
+
  - Bandit (MM 343)
  - Blood Hawk (MM 319)
  - Boggle (VG 128)
@@ -75,6 +78,9 @@
  - Tribal Warrior (MM 350)
  - Twig Blight (MM 32)
  - Xvart (VG 200)
+
+# Challenge Rating 1/4 (50XP)
+
  - Aarakocra (MM 12)
  - Acolyte (MM 342)
  - Apprentice Wizard (VG 209)
@@ -134,6 +140,9 @@
  - Winged Kobold (MM 195)
  - Wolf (MM 341)
  - Zombie (MM 316)
+
+# Challenge Rating 1/2 (100XP)
+
  - Ape (MM 317)
  - Black Bear (MM 318)
  - Chitine (VG 131)
