@@ -8,6 +8,7 @@ def _alpha_sorted(m1, m2):
 def generate_markdown(monsters):
     print "\n# All Monsters Alphabetically\n"
     for monster in sorted(monsters, cmp=_alpha_sorted):
+        monster['title']=monster['title'].encode('utf-8')
         print " - {title} ({book} {page})".format(**monster)
 
 def read_source(filePath):

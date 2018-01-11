@@ -38,6 +38,7 @@ crxp = {
 def generate_markdown(monsters):
     currentCR=-1
     for monster in sorted(monsters, key=lambda d: eval(d["cr"])):
+        monster['title']=monster['title'].encode('utf-8')
         if currentCR != monster["cr"]:
             print "\n# Challenge Rating {cr} {0}\n".format(crxp[monster["cr"]], **monster)
         currentCR = monster["cr"]
